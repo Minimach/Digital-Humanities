@@ -4,4 +4,4 @@
 ### Jak se máte?
 
 
-A jak se tohle zveřejňuje?
+A jak se tohle zveřejňuje? Už to funguje - je potřeba respektovat malé a velké písmena.

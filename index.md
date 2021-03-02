@@ -1,12 +1,3 @@
-## Welcome to the world of tommorow
+## Jiří Mach a Digital Humanities
 
-
-### Jak se máte?
-
-
-A jak se tohle zveřejňuje? Už to funguje - je potřeba respektovat malé a velké písmena.
-
-
-A zde je moje mapa:
-
-<iframe src="https://uploads.knightlab.com/storymapjs/825feaf2aa847400e98169ca9b76fc82/husitske-valky/index.html" frameborder="0" width="100%" height="800"></iframe>
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1sQY3GVWIJJU4ajWXJz_o576v0jJqqurOVbxCYRCKweg&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
